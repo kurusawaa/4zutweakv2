@@ -16,11 +16,11 @@
  
  pkg install wget
  
- git clone https://github.com/kurusawaa/4zutweak.git
+ git clone https://github.com/kurusawaa/4zutweakv2.git
 
  pip install -r requirements.txt
  
- cd 4zutweak
+ cd 4zutweakv2
  
 
  # Run cmd
